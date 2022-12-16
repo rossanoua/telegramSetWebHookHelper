@@ -1,4 +1,4 @@
-# This simple example helps to set web-hook for you Telegram bot.
+# This simple example helps to set web-hook for your Telegram bot.
 
 ---
 ## Dependencies
@@ -9,7 +9,7 @@ This project utilize __[jq](https://stedolan.github.io/jq/)__ for pretty printin
 ### Before you can start
 __.bot_env__ file should contain two ENV variables BOT and HOST:
 - __BOT__ - your Telegram bot token
-- __HOST__ - URL, where your bot lives (without _https://_)
+- __HOST__ - URL, where your bot lives (without _https://_)  
   Next:
 - Clone the repo.
 - Make `teleg.sh` executable by running in root of the project: `sudo chmod +x teleg.sh`
