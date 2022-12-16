@@ -3,7 +3,7 @@
 ---
 ## Dependencies
 __[curl](https://curl.se/)__ for making requests.  
-This project utilize __[jq](https://stedolan.github.io/jq/)__ for pretty printing in the console.  
+This project utilize __[jq](https://stedolan.github.io/jq/)__ for pretty printing json in the console.  
 ---
 ## How to
 ### Before you can start
